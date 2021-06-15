@@ -5,8 +5,8 @@ class config:
     DATABASE_URL = "postgres://bfarcvktswyxmt:79d4d50bebc9c55f22989e23fa61403f4554b6e1dc7f57fa443bbe1b682bda1c@ec2-52-6-77-239.compute-1.amazonaws.com:5432/dd5gaf8358ro2b"
     SUDO_USERS = "1815704144" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "737415932874-ge1dlgmj4ibfjvn9raue4k7kekocdquh.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "iJbd1EkdVK8iAn3l9Gd42PEe"
 
 
 class BotCommands:
